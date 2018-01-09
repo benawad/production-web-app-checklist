@@ -1,8 +1,13 @@
 # production-web-app-checklist
 
 ## Table of Contents
+- [Docker](#docker)
 - [Nginx](#nginx)
 - [PostgreSQL](#postgresql)
+
+## Docker
+
+- [ ] Run [Docker security benchmark](https://github.com/docker/docker-bench-security)
 
 ## Nginx
 
